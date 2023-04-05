@@ -1,0 +1,5 @@
+C:\Users\Крыса\Documents\VS\AndreevaTestTask\bin\Release\net6.0-windows\publish\AndreevaTestTask.exe
+C:\Users\Крыса\Documents\VS\AndreevaTestTask\bin\Release\net6.0-windows\publish\AndreevaTestTask.dll
+C:\Users\Крыса\Documents\VS\AndreevaTestTask\bin\Release\net6.0-windows\publish\AndreevaTestTask.deps.json
+C:\Users\Крыса\Documents\VS\AndreevaTestTask\bin\Release\net6.0-windows\publish\AndreevaTestTask.runtimeconfig.json
+C:\Users\Крыса\Documents\VS\AndreevaTestTask\bin\Release\net6.0-windows\publish\AndreevaTestTask.pdb

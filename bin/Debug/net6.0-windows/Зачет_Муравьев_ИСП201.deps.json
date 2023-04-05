@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Зачет_Муравьев_ИСП201/1.0.0": {
+        "runtime": {
+          "Зачет_Муравьев_ИСП201.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Зачет_Муравьев_ИСП201/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
